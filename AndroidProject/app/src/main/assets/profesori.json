@@ -1,0 +1,66 @@
+[
+  {
+    "idProfesor": 1,
+    "nume": "Mihai",
+    "prenume": "Popescu",
+    "titluAcademic": "Profesor asociat",
+    "facultate": "Facultatea de Economie",
+    "disciplinaPredata": "Microeconomie"
+  },
+  {
+    "idProfesor": 2,
+    "nume": "Ana",
+    "prenume": "Ionescu",
+    "titluAcademic": "Profesor universitar",
+    "facultate": "Facultatea de Marketing",
+    "disciplinaPredata": "Marketing Digital"
+  },
+  {
+    "idProfesor": 3,
+    "nume": "George",
+    "prenume": "Popa",
+    "titluAcademic": "Conferențiar universitar",
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "disciplinaPredata": "Audit financiar"
+  },
+  {
+    "idProfesor": 4,
+    "nume": "Andreea",
+    "prenume": "Dumitrescu",
+    "titluAcademic": "Lector universitar",
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "disciplinaPredata": "Finanțe Corporative"
+  },
+  {
+    "idProfesor": 5,
+    "nume": "Vlad",
+    "prenume": "Gheorghe",
+    "titluAcademic": "Profesor asociat",
+    "facultate": "Facultatea de Economie",
+    "disciplinaPredata": "Economie Internațională"
+  },
+  {
+    "idProfesor": 6,
+    "nume": "Elena",
+    "prenume": "Marinescu",
+    "titluAcademic": "Profesor universitar",
+    "facultate": "Facultatea de Marketing",
+    "disciplinaPredata": "Management Strategic"
+  },
+  {
+    "idProfesor": 7,
+    "nume": "Cristian",
+    "prenume": "Stoica",
+    "titluAcademic": "Conferențiar universitar",
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "disciplinaPredata": "Contabilitate de gestiune"
+  },
+  {
+    "idProfesor": 8,
+    "nume": "Ioana",
+    "prenume": "Constantinescu",
+    "titluAcademic": "Lector universitar",
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "disciplinaPredata": "Burse de Valori"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "idStudent": 1,
+    "nume": "Popescu",
+    "prenume": "Ion",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 2,
+    "nume": "Ionescu",
+    "prenume": "Maria",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 3,
+    "nume": "Popa",
+    "prenume": "Andrei",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 4,
+    "nume": "Dragomir",
+    "prenume": "Ana",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 5,
+    "nume": "Constantinescu",
+    "prenume": "Alexandra",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 6,
+    "nume": "Pop",
+    "prenume": "Andreea",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 7,
+    "nume": "Neagu",
+    "prenume": "Mihai",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 8,
+    "nume": "Dumitrescu",
+    "prenume": "Elena",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 9,
+    "nume": "Stanescu",
+    "prenume": "Vlad",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 10,
+    "nume": "Georgescu",
+    "prenume": "Ana-Maria",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 11,
+    "nume": "Stoica",
+    "prenume": "Radu",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 12,
+    "nume": "Avram",
+    "prenume": "Ana-Maria",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 13,
+    "nume": "Tudor",
+    "prenume": "Cristian",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 14,
+    "nume": "Dumitrache",
+    "prenume": "Alexandra",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 15,
+    "nume": "Marinescu",
+    "prenume": "Andrei",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 16,
+    "nume": "Gheorghe",
+    "prenume": "Ioana",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 17,
+    "nume": "Popa",
+    "prenume": "Marius",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 18,
+    "nume": "Iacob",
+    "prenume": "Andreea",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 19,
+    "nume": "Ion",
+    "prenume": "Vlad",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 20,
+    "nume": "Stancu",
+    "prenume": "Andreea",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 21,
+    "nume": "Radu",
+    "prenume": "Mihai",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 22,
+    "nume": "Stoian",
+    "prenume": "Andreea",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 23,
+    "nume": "Cristea",
+    "prenume": "Alexandru",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 24,
+    "nume": "Ionescu",
+    "prenume": "Andrei",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 25,
+    "nume": "Alexandrescu",
+    "prenume": "Maria",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 26,
+    "nume": "Cristian",
+    "prenume": "Elena",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 27,
+    "nume": "Grigorescu",
+    "prenume": "Cristian",
+    "grupa": 103,
+    "facultate": "Facultatea de Contabilitate și Informatică de Gestiune",
+    "specializare": "Contabilitate",
+    "anStudiu": 1
+  },
+  {
+    "idStudent": 28,
+    "nume": "Barbu",
+    "prenume": "Ioana",
+    "grupa": 104,
+    "facultate": "Facultatea de Finanțe, Asigurări, Bănci și Burse de Valori",
+    "specializare": "Finanțe și Bănci",
+    "anStudiu": 2
+  },
+  {
+    "idStudent": 29,
+    "nume": "Stefan",
+    "prenume": "Cristina",
+    "grupa": 101,
+    "facultate": "Facultatea de Economie",
+    "specializare": "Economie",
+    "anStudiu": 3
+  },
+  {
+    "idStudent": 30,
+    "nume": "Stan",
+    "prenume": "Vlad",
+    "grupa": 102,
+    "facultate": "Facultatea de Marketing",
+    "specializare": "Marketing și Comunicare",
+    "anStudiu": 1
+  }
+]

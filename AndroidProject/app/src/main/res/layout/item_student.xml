@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_idStudent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IdStudent:"/>
+
+    <TextView
+        android:id="@+id/text_nume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nume:"/>
+
+    <TextView
+        android:id="@+id/text_prenume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prenume:"/>
+
+    <TextView
+        android:id="@+id/text_grupa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grupa:"/>
+
+    <TextView
+        android:id="@+id/text_facultate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Facultate:"/>
+
+    <TextView
+        android:id="@+id/text_specializare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Specializare:"/>
+
+    <TextView
+        android:id="@+id/text_anStudiu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="An Studiu:"/>
+
+</LinearLayout>

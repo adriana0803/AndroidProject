@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_idCurs" type="id"/>
+    <item name="field_idCurs" type="id"/>
+    <item name="text_denumire" type="id"/>
+    <item name="field_denumire" type="id"/>
+    <item name="text_codCurs" type="id"/>
+    <item name="field_codCurs" type="id"/>
+    <item name="text_profesorResponsabil" type="id"/>
+    <item name="field_profesorResponsabil" type="id"/>
+    <item name="text_anUniversitar" type="id"/>
+    <item name="field_anUniversitar" type="id"/>
+    <item name="text_numarCredite" type="id"/>
+    <item name="field_numarCredite" type="id"/>
+    <item name="list_students" type="id"/>
+    <item name="button_close" type="id"/>
+</resources>
